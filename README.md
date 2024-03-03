@@ -2,4 +2,4 @@
 
 This is a clone of website called Cuberto Magma .
 
-visit 👉
+visit 👉  https://banditadas.github.io/Cuberto-Magma-/
